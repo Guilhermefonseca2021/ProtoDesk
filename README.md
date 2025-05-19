@@ -43,10 +43,10 @@ Facilita auditorias internas
 Clone o repositório
 
 ```js
-$   git clone https://github.com/seuusuario/protocolo-notas.git
+$   git clone https://github.com/Guilhermefonseca2021/ProtoDesk.git
 ```
 
- Instale as dependências
+Instale as dependências
 
 ```js
 cd backend
@@ -56,23 +56,11 @@ cd ../frontend
 $   npm install
 ```
 
-Rode o backend
-
-```node
-npm run dev
-```
-
-Rode o frontend
-
-```node
-npm run dev
-```
-
 ## 👨‍💻 Desenvolvimento
 
-Guilherme Fonseca dos Santos
+Guilherme Fonseca dos Santos, teste minha aplicacao: [website](https://proto-desk.vercel.app/)
 Garçom 💼 | Estudante de ADS 👨‍🎓 | Desenvolvedor por propósito 💻
-[linkedin]()
+[linkedin](https://www.linkedin.com/in/guilherme-fonseca-dos-santos-a49594207/)
 
 
 ## ⚠️ Erro Resolvido: html2canvas e oklch
